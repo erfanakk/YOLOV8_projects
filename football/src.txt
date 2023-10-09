@@ -1,4 +1,8 @@
 https://muhammadrizwanmunawar.medium.com/labeling-data-for-object-detection-yolo-5a4fa4f05844
-https://webcache.googleusercontent.com/search?q=cache:https://muhammadrizwanmunawar.medium.com/train-yolov8-on-custom-data-6d28cd348262
 https://universe.roboflow.com/school-95f9t/human-detection-uerkn
 https://learnopencv.com/train-yolov8-on-custom-dataset
+https://towardsdatascience.com/on-object-detection-metrics-with-worked-example-216f173ed31es
+https://muhammadrizwanmunawar.medium.com/train-yolov8-on-custom-data-6d28cd348262
+https://github.com/rafaelpadilla/Object-Detection-Metrics
+https://muhammadrizwanmunawar.medium.com/train-yolov8-on-custom-data-6d28cd348262
+
